@@ -1,4 +1,4 @@
-<h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px height = 30px> Hi, I'm Levent Kantaroğlu</h1>
+<h1 align="center">Hi, I'm Levent Kantaroğlu</h1>
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/levent-kantaroglu/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
