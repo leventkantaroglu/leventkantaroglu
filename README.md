@@ -2,9 +2,8 @@
 
 <h1 align="center">Hi, I'm Levent Kantaroğlu</h1>
 
-https://flutter-badge-generator.web.app/assets/assets/images/badges/badgebase.png
 <p align='center'>
-<a href="https://www.linkedin.com/in/levent-kantaroglu/"><img height="30" src="https://flutter-badge-generator.web.app/assets/assets/images/badges/badgebase.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/levent-kantaroglu/"><img height="50" src="https://flutter-badge-generator.web.app/assets/assets/images/badges/badgebase.png?raw=true"></a>
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/levent-kantaroglu/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
